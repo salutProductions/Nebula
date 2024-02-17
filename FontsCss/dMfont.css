@@ -4,11 +4,10 @@
 *
 */
 
-
-@font-face{
-    font-family: 'NDotMatrix', sans-serif;
+@font-face {
+    font-family: 'NothingFont';
     font-style: normal;
     font-weight: 400;
     font-display: swap;
-    src: url(https://salutproductions.github.io/Nebula/Fonts/dotmatrix.ttf) format('truetype');
+    src: url(https://salutproductions.github.io/Nebula/Fonts/DotMatrix.woff2) format('woff2');
 }
