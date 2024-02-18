@@ -7,7 +7,7 @@ Nothing Theme (2) is a major successor to Nothing Theme (1), with a new, more re
 
 Nothing Theme (2) comes in two different forms. The Red and White (WIP) versions. Which will be available for download!
 
-#Screenshots
+# Screenshots
 
 ![Logo](https://i.imgur.com/apux910.png)
 
