@@ -1,0 +1,270 @@
+/**
+    * @name Nothing Theme (2) - Red
+    * @author salutcf
+    * @version 1.0
+    * @description Unleash Yourself with Nothing Theme (2), the successor to the original Nothing Theme with major improvments, changes, and more.
+    * @authorId 278543574059057154
+    * @website https://www.github.com/salutproductions/Nebula
+    * @updateUrl https://salutproductions.github.io/Nebula/
+*/
+
+@import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/BasicBackground/BasicBackground.css');
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300..700&display=swap');
+@import url("https://salutproductions.github.io/Nebula/FontsCss/dMfont.css");
+
+
+
+
+.space-grotesk {
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+
+
+
+
+
+:root {
+    --background: url('https://i.imgur.com/EnqxltW.png');
+    --backgroundsize: cover;
+    --backgroundposition: center;
+    --popout: var(--background);
+    --popoutsize: var(--backgroundsize);
+    --backgroundposition: center;
+    --popoutblur: 10px;
+    --transparencycolor: 10,10,10;
+    --accentcolor: 215, 25, 33;
+    --backdrop: rgba(120,19,182,1);
+    --textshadow: transparent;
+    --transparencyalpha: 0.28;
+    --messagetransparency: 0.18;
+    --guildchanneltransparency: 0.15;
+    --chatinputtransparency: 0;
+    --memberlisttransparency: 0;
+    --textbrightest: 255,255,255;
+    --textbrighter: 222,222,222;
+    --textbright: 200,200,200;
+    --textdark: 160,160,160;
+    --textdarker: 125,125,125;
+    --textdarkest: 90,90,90;
+    --settingsicons: 1;
+    --backdropsize: var(--background-size);
+    --backdropblur: 10px;
+    --version1_0_5: none;
+    --rs-small-spacing: 2px;
+    --rs-medium-spacing: 2px;
+    --rs-large-spacing: 2px;
+    --rs-small-width: 2px;
+    --rs-medium-width: 2px;
+    --rs-large-width: 2px;
+    --rs-avatar-shape: 50%;
+    --rs-online-color: #FFFFFF;
+    --rs-idle-color: #FF9F00;
+    --rs-dnd-color: #FF0000;
+    --rs-offline-color: #4E4E4E;
+    --rs-streaming-color: #5E00FF;
+}
+
+
+
+
+.tip__6e299 {
+    font-family: Space Grotesk;
+}
+
+.markup_a7e664 {
+
+    font-size: 16px;
+    font-family: Space Grotesk;
+
+    
+}
+
+.heading-md-semibold__574c7 {
+    font-family: NothingFont;
+}
+
+.text-sm-semibold__41578 {
+    font-family: Space Grotesk;
+    font-weight: 200;
+}
+
+.title__964d5 {
+    font-family: Space Grotesk;
+}
+
+.text-xs-normal__56c35{
+    font-family: Space Grotesk;
+}
+
+.text-xs-bold_c1eb0a {
+    font-family: NothingFont;
+}
+
+.newMessagesBar__8b6d7{
+    border-radius: 20px;
+}
+
+.link__95dc0{
+    border-radius:20px;
+}
+
+.searchBar_e0c60b{
+    border-radius:10px;
+}
+
+.container_de798d{
+    font-family: NothingFont;
+}
+
+.layout_bb8e67{
+    border-radius:20px;
+}
+
+#app-mount .role__631a3 .roleCircle_bae511{
+    border-radius:15px;
+
+}
+
+.layout_bb8e67 {
+    font-family: Space Grotesk;
+}
+
+.text-md-semibold__4cb23 {
+    font-family: "NothingFont";
+}
+
+.text-md-normal__4afad {
+    font-family: Space Grotesk;
+}
+
+.h1__90460 {
+    font-family: NothingFont;
+}
+
+.eyebrow_f53856 {
+    font-family: NothingFont;
+}
+
+/* General buttons*/
+.button_afdfd9 .contents_fb6220 {
+    font-family: Space Grotesk;
+}
+
+
+.button_afdfd9 {
+    border-radius: 20px;
+}
+
+.lookLink__93965 .contents_fb6220{
+    color: red;
+}
+
+
+
+
+
+.title__28a65 {
+    font-family: Space Grotesk;
+}
+
+.eyebrow_b7df6b {
+    font-family: NothingFont;
+}
+
+.description__7af71 {
+    font-family: Space Grotesk;
+}
+
+
+/* HypeSquad Intro */
+.introHeader__29ad4 {
+    font-family: NothingFont;
+}
+
+/* HypeSquadinfo */
+
+.attendeeCTA__9f614 {
+    font-family: Space Grotesk;
+}
+
+/* AnchorLink */
+.card__4dc22 a{
+    font-weight: bold;
+}
+
+/* Other Titles */
+
+.title_d8b71c {
+    font-family: NothingFont;
+}
+
+/* Descriptions */
+.description__2f445{
+    font-family: Space Grotesk;
+}
+
+/* Text */
+.text-sm-normal_e612c7 {
+    font-family: Space Grotesk;
+}
+
+
+.name__8d1ec {
+    font-family: Space Grotesk;
+}
+
+.item__48dda{
+    font-family: Space Grotesk;
+    font-weight: bold;
+}
+
+/* Settings Dropdown Option */
+.value__9a6c7{
+    font-family: Space Grotesk;
+}
+
+.deviceOptionLabel_c35393 {
+    font-family: Space Grotesk;
+    font-weight: 300;
+}
+
+/* Registered Game Names */
+
+.gameName_aeeab5 {
+    font-family: Space Grotesk;
+    font-weight: bold;
+}
+
+.lastPlayed_accc56 {
+    font-family: Space Grotesk;
+}
+
+.theme-light .nowPlayingAdd__7caf1, .theme-dark .nowPlayingAdd__7caf1 {
+    font-family: Space Grotesk;
+}
+
+
+/* Settings One Choice Setting */
+
+#app-mount .item_b7fb7e {
+    border-radius:20px;
+}
+
+.select__0eb48 {
+    border-radius: 20px;
+}
+
+.radioBar__40e1b {
+    border-radius:20px;
+}
+
+
+
+/*Link Text */
+
+.lookLink__93965 .contents_fb6220 {
+    font-weight: bold;
+}
